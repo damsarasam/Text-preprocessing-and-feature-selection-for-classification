@@ -1,7 +1,3 @@
-Sure, here's a README template for the described code snippet:
-
----
-
 # Text Preprocessing and Feature Selection for Classification
 
 This repository contains code for preprocessing text data and selecting features based on their information gain for a classification task.
